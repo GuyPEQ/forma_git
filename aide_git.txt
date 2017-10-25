@@ -1,0 +1,12 @@
+Ce fichier contient quelques commandes de bases pour utiliser Git
+
+ressources internet pour la documentation de Git : https://git-scm.com/doc
+
+Les commandes de base:
+
+* git init "crée, initialise un depository git dans le dossier courant"
+* git add " rajoute des fichiers à l'index"
+* git commit -m "permet de saisir un message explicite des modifications apoortées au projet"
+* git status "permet de voir si toutes les modifications sont à jour: tous les fichiers ajoutés à l'index et toutes les modifications commentées avec commit"
+
+
