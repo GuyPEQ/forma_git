@@ -11,3 +11,11 @@ Les commandes de base:
 * git log "permet de voir la liste des commits sur un projet"
 
 
+Utiliser GitHub comme backup:
+
+les fonctionalités de bases les plus courantes
+
+* git push origin master "permet d'envoyer sur GitHub le projet créé sur la machine locale"
+
+* git pull "permet de récupérer des modifications apportées au projet sur GitHub"
+
