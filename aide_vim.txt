@@ -1,0 +1,17 @@
+Quelques raccourcis pour utiliser vim !
+
+En commençant ce MOOC je ne connaiissais pas Vim et j'ai cherché des ressources simples pour naviguer entre vim et git bash!
+
+ressources internet : http://www.commentcamarche.net/faq/8400-raccourcis-clavier-vi-m#commandes-pour-passer-en-mode-insertion
+
+quelques raccourcis:
+
+i : passe en mode insertion "permet d'insérer et modifier du texte"
+echap : passe en mode commande "permet d'agir sur le fichier et de sortir de vim"
+
+en mode commande :
+
+:x permet de sortir et sauvegarder
+:wq idem à :x
+;w permet de sauvegarder régulièrement les modifications
+:q quitte vim
