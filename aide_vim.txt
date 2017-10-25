@@ -10,8 +10,15 @@ i : passe en mode insertion "permet d'insérer et modifier du texte"
 echap : passe en mode commande "permet d'agir sur le fichier et de sortir de vim"
 
 en mode commande :
-
 :x permet de sortir et sauvegarder
 :wq idem à :x
 ;w permet de sauvegarder régulièrement les modifications
 :q quitte vim
+
+déplacement dans le fichier avec les touches H J K L
+
+H équivalent de la flèche <-
+J équivalent au déplacement de la flèche vers le haut
+K flèche vers le bas
+L flèche ->
+
