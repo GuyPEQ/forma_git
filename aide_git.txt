@@ -8,5 +8,6 @@ Les commandes de base:
 * git add " rajoute des fichiers à l'index"
 * git commit -m "permet de saisir un message explicite des modifications apoortées au projet"
 * git status "permet de voir si toutes les modifications sont à jour: tous les fichiers ajoutés à l'index et toutes les modifications commentées avec commit"
+* git log "permet de voir la liste des commits sur un projet"
 
 
