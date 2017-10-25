@@ -19,3 +19,5 @@ les fonctionalités de bases les plus courantes
 
 * git pull "permet de récupérer des modifications apportées au projet sur GitHub"
 
+Une alternative libre à git : Gitlab 
+
